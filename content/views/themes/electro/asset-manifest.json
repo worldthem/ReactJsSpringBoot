@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/content/views/themes/electro/static/css/main.5c0c35b0.chunk.css",
+    "main.js": "/content/views/themes/electro/static/js/main.b6715e7a.chunk.js",
+    "main.js.map": "/content/views/themes/electro/static/js/main.b6715e7a.chunk.js.map",
+    "runtime-main.js": "/content/views/themes/electro/static/js/runtime-main.84e2714b.js",
+    "runtime-main.js.map": "/content/views/themes/electro/static/js/runtime-main.84e2714b.js.map",
+    "static/js/2.548f4bdf.chunk.js": "/content/views/themes/electro/static/js/2.548f4bdf.chunk.js",
+    "static/js/2.548f4bdf.chunk.js.map": "/content/views/themes/electro/static/js/2.548f4bdf.chunk.js.map",
+    "static/js/3.48349a24.chunk.js": "/content/views/themes/electro/static/js/3.48349a24.chunk.js",
+    "static/js/3.48349a24.chunk.js.map": "/content/views/themes/electro/static/js/3.48349a24.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5c0c35b0.chunk.css.map": "/content/views/themes/electro/static/css/main.5c0c35b0.chunk.css.map",
+    "static/js/2.548f4bdf.chunk.js.LICENSE.txt": "/content/views/themes/electro/static/js/2.548f4bdf.chunk.js.LICENSE.txt",
+    "static/media/login.css": "/content/views/themes/electro/static/media/simple-backgrounds.327f2021.jpg",
+    "static/media/style.css": "/content/views/themes/electro/static/media/remove.73e561f5.png",
+    "static/media/font-awesome.min.css": "/content/views/themes/electro/static/media/fontawesome-webfont.46fdbd2d.woff"
+  },
+  "entrypoints": [
+    "/content/views/themes/electro/static/js/runtime-main.84e2714b.js",
+    "/content/views/themes/electro/static/js/2.548f4bdf.chunk.js",
+    "/content/views/themes/electro/static/css/main.5c0c35b0.chunk.css",
+    "/content/views/themes/electro/static/js/main.b6715e7a.chunk.js"
+  ]
+}
