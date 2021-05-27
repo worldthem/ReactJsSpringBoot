@@ -9,7 +9,7 @@ bezkoder.app.jwtExpirationMs= 86400000
 
 spring.jackson.mapper.accept_case_insensitive_properties=true
 
-
+#code
  @PostMapping("/signin") // Map ONLY POST Requests
     public ResponseEntity<?> login(@RequestBody LoginRequest user) {
        Authentication authentication = authenticationManager.authenticate(
